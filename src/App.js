@@ -28,8 +28,6 @@ class App extends Component {
         <p className="App-intro">
 		  <h2>this is awsome</h2>
         </p>
-      </div>
-      <div className="App">
         <h1>LOGIN WITH FACEBOOK AND GOOGLE</h1>
 
       <FacebookLogin
