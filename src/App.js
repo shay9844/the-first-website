@@ -29,8 +29,6 @@ class App extends Component {
           To get started, edit <code>src/App.js</code> and save to reload.
 		  <h2>this is awsome</h2>
         </p>
-      </div>
-      <div className="App">
         <h1>LOGIN WITH FACEBOOK AND GOOGLE</h1>
 
       <FacebookLogin
